@@ -35,7 +35,3 @@ The bootstrap script automatically configures your workspace and provisions the 
 | **OpenCode AI IDE** | ✅ (`anomalyco/tap`) | ✅ (Curl Script) | ✅ (Curl Script) |
 
 ---
-git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
-```
-
