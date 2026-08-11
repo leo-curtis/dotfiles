@@ -1,0 +1,6 @@
+git
+zsh
+curl
+ghostty
+base-devel
+

@@ -1,0 +1,3 @@
+tap "anomalyco/tap"
+brew "opencode" 
+cask "ghostty"
